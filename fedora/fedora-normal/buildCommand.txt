@@ -1,0 +1,1 @@
+sudo image-builder build --blueprint fedora-pentest.toml --distro fedora-44 minimal-installer
