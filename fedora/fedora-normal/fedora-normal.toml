@@ -33,6 +33,7 @@ packages = [
     # System Tools & Utilities
 
     { name = "btop"},
+    { name = "fastfetch"},
     { name = "btrfs-assistant" },
     { name = "bleachbit" },
     { name = "gzip" },

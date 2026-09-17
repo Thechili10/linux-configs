@@ -1,0 +1,10 @@
+kde-desktop                 KDE                                               yes
+kde-media                   KDE Multimedia support                            yes
+kde-education               KDE Educational applications                       no
+kde-mobile                  KDE Mobile                                         no
+kde-mobile-apps             KDE Mobile Apps                                    no
+kde-pim                     KDE PIM                                           yes
+kde-office                  KDE Office                                         no
+kde-software-development    KDE Software Development                           no
+kf6-software-development    KDE Frameworks 6 Software Development              no
+kde-apps                    KDE Applications                                  yes
