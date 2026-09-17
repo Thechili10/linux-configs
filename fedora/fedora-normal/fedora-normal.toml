@@ -47,7 +47,6 @@ packages = [
     { name = "curl" },
     { name = "openvpn"},
     { name = "putty"},
-    { name = "steam"},
 
 
     # Media Creation & Dirvers
