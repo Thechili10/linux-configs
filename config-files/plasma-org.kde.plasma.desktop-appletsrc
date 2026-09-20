@@ -57,7 +57,7 @@ DialogHeight=630
 DialogWidth=810
 
 [Containments][2][Applets][51][Configuration][General]
-launchers=applications:systemsettings.desktop,applications:Alacritty.desktop,preferred://filemanager,applications:org.kde.discover.desktop,file:///var/lib/flatpak/exports/share/applications/com.brave.Browser.desktop,applications:putty.desktop,file:///var/lib/flatpak/exports/share/applications/com.spotify.Client.desktop,applications:md.obsidian.Obsidian.desktop,file:///var/lib/flatpak/exports/share/applications/com.vscodium.codium.desktop,file:///var/lib/flatpak/exports/share/applications/com.discordapp.Discord.desktop,applications:virt-manager.desktop,
+launchers=applications:systemsettings.desktop,applications:Alacritty.desktop,preferred://filemanager,applications:org.kde.discover.desktop,file:///var/lib/flatpak/exports/share/applications/com.brave.Browser.desktop,applications:putty.desktop,file:///var/lib/flatpak/exports/share/applications/com.spotify.Client.desktop,file:///var/lib/flatpak/exports/share/applications/com.vscodium.codium.desktop,file:///var/lib/flatpak/exports/share/applications/com.discordapp.Discord.desktop,
 
 [Containments][2][Applets][6]
 immutability=1
