@@ -138,8 +138,7 @@ TerminalApplication=alacritty
 TerminalService=Alacritty.desktop
 
 [KDE]
-DefaultDarkLookAndFeel=org.fedoraproject.fedoradark.desktop
-LookAndFeelPackage=org.fedoraproject.fedoradark.desktop
+LookAndFeelPackage=org.kde.breezedark.desktop
 contrast=4
 frameContrast=0.2
 
@@ -163,6 +162,12 @@ View Style=DetailTree
 [PreviewSettings]
 EnableRemoteFolderThumbnail=false
 MaximumRemoteSize=1048576000000
+
+[Shortcuts]
+BackwardWord=
+ForwardWord=
+NextCompletion=
+PrevCompletion=
 
 [WM]
 activeBackground=39,44,49
