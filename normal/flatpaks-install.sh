@@ -15,4 +15,3 @@ sudo flatpak install -y flathub com.discordapp.Discord || true
 sudo flatpak install -y flathub io.gitlab.librewolf-community || true
 sudo flatpak install -y flathub org.sweethome3d.Sweethome3d || true
 sudo flatpak install -y flathub org.localsend.localsend_app || true
-# sudo snap install sqlmap
